@@ -1,0 +1,31 @@
+header{
+    font-family: 'Playfair Display', serif;
+    display: block;
+    margin: auto;
+    background-color: transparent;
+}
+body{
+    background-image: linear-gradient(to right, red, white, blue);
+    background-attachment: fixed;
+}
+nav{
+
+}
+nav, a{
+    text-decoration: none;
+}
+ul#horizontal-list{
+    list-style: none;
+    position: center;
+    text-align: center;
+}
+ul#horizontal-list li{
+    width: auto;
+    display: inline;
+}
+#home-button{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
